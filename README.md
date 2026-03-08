@@ -288,3 +288,4 @@ Every video is below.
 - [pandera](https://github.com/pandera-dev/pandera) - A light-weight, flexible, and expressive data validation library for dataframes.
 - [pandas-vet](https://github.com/deppen8/pandas-vet) - A plugin for Flake8 that checks pandas code.
 - [daffy](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.
+- [raffalib-python](https://github.com/raffaem/raffalib-python/) - [STATA](https://www.stata.com/)-like loggers for data manipulation and `.docx` export capabilities.
